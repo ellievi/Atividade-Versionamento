@@ -1,0 +1,1 @@
+Função de localização de sessão de filmes criada.
