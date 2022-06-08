@@ -1,0 +1,2 @@
+Catalogo - area a qual que mostra os filmes disponiveis na plataforma.
+criado por leticia
